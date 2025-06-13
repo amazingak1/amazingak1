@@ -23,6 +23,7 @@ Tinkering with deep learning models and open source.
 ![VSCode](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visualstudiocode)  
 
 📦 Projects I’ve built:  
+- 🌸 [Iris Flower Prediction](https://github.com/amazingak1/Iris-Flower-Prediction) - Machine Learning scikit learn python
 - 📝 [Volunteer Registration Platform](https://github.com/amazingak1/Volunteer-Registration-Platform) – Spring Boot + Java backend system  
 - 🤖 [Discord Bot](https://github.com/amazingak1/discordbot) – Combo of utility + fun commands (custom-coded)  
 - 📊 [Attendance Predictor](https://github.com/amazingak1/attendance-calculator) – Enter % target, know how many classes to skip or attend  
