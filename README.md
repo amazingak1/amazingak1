@@ -1,10 +1,14 @@
 ### Hey, I’m Arpit 👋  
 **AI/ML enthusiast** • Pythonic Coder • Vibe Engineer ☕  
+🔧 I’m a tech enthusiast who loves building AI projects, automating workflows with Docker, and mastering cloud-native development.
+Always experimenting, breaking stuff, and pushing the limits of code.
 
 ---
 
 🧠 Currently learning:  
-&nbsp;&nbsp;→ Machine Learning, Deep Learning, and how not to overfit my life.
+&nbsp;&nbsp;→ 🚀 Machine Learning, Deep Learning, and figuring out how to do less but get more done.
+Lazy coder with a knack for smart shortcuts and good vibes only.
+Tinkering with deep learning models and open source
 
 🔧 Tech I vibe with:
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
@@ -21,6 +25,7 @@
 - 📝 [Volunteer Registration Platform](https://github.com/amazingak1/Volunteer-Registration-Platform) – Spring Boot + Java based backend system
 - 🤖 [Discord Bot](https://github.com/amazingak1/discordbot) – Combo of utility + fun commands (custom-coded)
 - 📊 [Attendance Predictor](https://github.com/amazingak1/attendance-calculator) – Enter % target, know how many classes to skip or attend
+…and making more cool stuff every day! 🚀
 
 💡 Always building, always breaking things — that’s how you learn.
 
