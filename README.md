@@ -1,6 +1,6 @@
 ### Hey, I’m Arpit 👋  
 **AI/ML enthusiast** • Pythonic Coder • Vibe Engineer ☕  
-🔧 I’m a tech enthusiast who loves building AI projects, automating workflows with Docker, and mastering cloud-native development.
+🔧 I’m a tech enthusiast who loves building AI projects.
 Always experimenting, breaking stuff, and pushing the limits of code.
 
 ---
