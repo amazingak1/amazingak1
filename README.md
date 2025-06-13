@@ -29,6 +29,10 @@ Tinkering with deep learning models and open source.
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)  
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)  
 ![VSCode](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visualstudiocode)  
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)  
+![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=NumPy)  
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)  
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
 
 📦 Projects I’ve built:  
 - 🌸 [Iris Flower Prediction](https://github.com/amazingak1/Iris-Flower-Prediction) – Machine Learning with scikit-learn + Python  
