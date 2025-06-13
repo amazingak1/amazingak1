@@ -1,5 +1,5 @@
 ### Hey, I’m Arpit 👋  
-**AI/ML enthusiast** • Pythonic Coder • Vibe Engineer ☕  
+**AI/ML enthusiast** • Pythonic Coder ☕  
 
 🔧 I’m a tech enthusiast who loves building AI projects.  
 Always experimenting, breaking stuff, and pushing the limits of code.<br>
@@ -22,6 +22,7 @@ Tinkering with deep learning models and open source.
 ![Gemini API](https://img.shields.io/badge/-Gemini%20API-05122A?style=flat&logo=google)  
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)  
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)  
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)  
 ![VSCode](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visualstudiocode)  
 
 📦 Projects I’ve built:  
@@ -30,11 +31,11 @@ Tinkering with deep learning models and open source.
 - 🤖 [Discord Bot](https://github.com/amazingak1/discordbot) – Combo of utility + fun commands (custom-coded)  
 - 📊 [Attendance Predictor](https://github.com/amazingak1/attendance-calculator) – Enter % target, know how many classes to skip or attend  
 
-…and making more cool stuff every day! 🚀
+…and making more cool stuff! 🚀
 
 💡 Always building, always breaking things — that’s how you learn.  
 
-🌱 Let’s connect and build something that *probably* works on the first try.
+🌱 Let’s connect and build something that works.
 
 ---
 
