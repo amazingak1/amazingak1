@@ -2,7 +2,7 @@
 **AI/ML enthusiast** • Pythonic Coder • Vibe Engineer ☕  
 
 🔧 I’m a tech enthusiast who loves building AI projects.  
-Always experimenting, breaking stuff, and pushing the limits of code.
+Always experimenting, breaking stuff, and pushing the limits of code.<br>
 → Leveraging ChatGPT & Gemini through prompt engineering to build faster and code smarter.
 
 ---
