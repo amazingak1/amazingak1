@@ -3,6 +3,7 @@
 
 🔧 I’m a tech enthusiast who loves building AI projects.  
 Always experimenting, breaking stuff, and pushing the limits of code.
+→ Leveraging ChatGPT & Gemini through prompt engineering to build faster and code smarter.
 
 ---
 
@@ -16,7 +17,7 @@ Tinkering with deep learning models and open source.
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)  
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)  
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)  
-![JetBrains](https://img.shields.io/badge/-JetBrains-05122A?style=flat&logo=jetbrains)
+![JetBrains](https://img.shields.io/badge/-JetBrains-05122A?style=flat&logo=jetbrains)  
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-05122A?style=flat&logo=scikitlearn)  
 ![Gemini API](https://img.shields.io/badge/-Gemini%20API-05122A?style=flat&logo=google)  
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)  
