@@ -11,6 +11,7 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![JetBrains](https://img.shields.io/badge/-JetBrains-05122A?style=flat&logo=jetbrains)
 ![VSCode](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visualstudiocode)
 
 📦 Projects I’ve built:
