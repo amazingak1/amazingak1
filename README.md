@@ -18,8 +18,8 @@ Tinkering with deep learning models and open source.
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)  
 ![JetBrains](https://img.shields.io/badge/-JetBrains-05122A?style=flat&logo=jetbrains)  
 <!-- ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow) -->  
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-05122A?style=flat&logo=scikitlearn)
-![Gemini API](https://img.shields.io/badge/-Gemini%20API-05122A?style=flat&logo=google)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-05122A?style=flat&logo=scikitlearn)  
+![Gemini API](https://img.shields.io/badge/-Gemini%20API-05122A?style=flat&logo=google)  
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)  
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)  
 ![VSCode](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visualstudiocode)  
