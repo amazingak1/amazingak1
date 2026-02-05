@@ -77,13 +77,3 @@ Actively learning how to design **reliable GenAI systems**, not just demos.
 
 ### ✍️ Random Dev Quote
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
-
----
-
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=amazingak1&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-![Arpit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amazingak1&show_icons=true&theme=radical&hide_title=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amazingak1&layout=compact&theme=radical)
