@@ -63,7 +63,7 @@ Actively learning how to design **reliable GenAI systems**, not just demos.
 
 
 📦 Projects I’ve built:  
-- 💬 [RAG Chatbot with memory and Gemni API reduced hallucinations]([https://github.com/amazingak1/Iris-Flower-Prediction](https://github.com/amazingak1/rag-gemini) – Machine Learning with scikit-learn + Python  
+- 💬 [RAG Chatbot](https://github.com/amazingak1/rag-gemini)  with memory and Gemni API reduced hallucinations – Machine Learning with scikit-learn + Python  
 - 📝 [Volunteer Registration Platform](https://github.com/amazingak1/Volunteer-Registration-Platform) – Spring Boot + Java backend system  
 - 🤖 [Discord Bot](https://github.com/amazingak1/discordbot) – Combo of utility + fun commands (custom-coded)  
 - 📊 [Attendance Predictor](https://github.com/amazingak1/attendance-calculator) – Enter % target, know how many classes to skip or attend  {fun project to help me and my classmates with direct link to my uni portal}
