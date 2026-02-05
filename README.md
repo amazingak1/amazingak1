@@ -19,13 +19,12 @@ Actively learning how to design **reliable GenAI systems**, not just demos.
 - LangChain chains, tools & agents
 - Hugging Face transformers & embeddings
 - RAG fundamentals
-- Prompt optimization & evaluation
-- LLM limitations & safety basics
+- Prompt optimization 
+- LLMs
 
 
-🔭 I’m currently working on **myself**  
-👯 I’m looking to collaborate on **open source projects**  
-⚡ Fun fact: I’m an **Engineer who prefers smart work over hard work**
+🔭 I’m currently working on **myself** 
+👯 I’m looking to collaborate on **open source projects** 
 
 ---
 
